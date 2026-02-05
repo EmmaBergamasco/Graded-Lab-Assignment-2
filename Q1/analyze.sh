@@ -1,4 +1,4 @@
-vi analyze.sh #open file analyze.sh in vi editor
+vi analyze.sh #create file analyze.sh in vi editor
 i #insert mode
 
 #!/bin/bash  #tells system to run script using the bash shell
@@ -26,4 +26,4 @@ fi  #ends conditional block
 Esc #exit insert mode 
 :wq + Enter #save file and quit editor
 
-chmod +x analyze.sh #runs script 
+chmod +x analyze.sh #make script executable so it can run on terminal  

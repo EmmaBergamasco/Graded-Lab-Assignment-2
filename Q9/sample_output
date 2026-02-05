@@ -1,0 +1,10 @@
+Child PID: 56472 started
+Child PID: 65783 started
+Child PID: 29573 started
+Child PID: 56472 exiting
+Parent cleaned up child PID: 56472
+Child PID: 65783 exiting
+Parent cleaned up child PID: 65783
+Child PID: 29573 exiting
+Parent cleaned up child PID: 29573
+All child processes have been cleaned up. No zombies remain.
